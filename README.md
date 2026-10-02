@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Abdulaziz Abuhaimed 👋
 
-<!--
-**abdulazizaabuhaimed/abdulazizaabuhaimed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Senior Student at Majmaah University with a growing focus on **Cybersecurity**, particularly **Governance, Risk, and Compliance (GRC)**.
 
-Here are some ideas to get you started:
+- 🔐 Interested in Cybersecurity, GRC, Information Security, and Risk Management
+- 📚 Currently preparing for **CompTIA Security+ (SY0-701)**
+- ☁️ AWS Academy Graduate – Cloud Security Foundations
+- 🎓 Currently working on my Graduation Project
+- 🔎 Open to **Co-op Training opportunities in Cybersecurity & GRC**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 🎓 AI-Based Academic Decision Support System
+Graduation project focused on identifying student academic risks and supporting early intervention using AI.
+
+### 🚗 Predicting Used Car Prices in Saudi Arabia
+Academic project focused on analyzing real-world used car data and predicting vehicle prices.
+
+## Certifications
+
+- CompTIA Security+ (SY0-701) — In Progress
+- Foundations of Governance, Risk, and Compliance — ISC2
+- AWS Academy Graduate – Cloud Security Foundations — AWS
+- Introduction to Hardware and Operating Systems — IBM
+
+## Skills
+
+Cybersecurity • GRC • Risk Assessment • Information Security • Security Controls • Data Privacy • Access Control • AWS • Python • SQL
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/abdulazizaabuhaimed/)
